@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 permalink: /cv/
 ---
-# Education
+## Education
 
 - 2018-Present **Ph.D. Anthropology**, University of Pittsburgh, Pittsburgh, PA  
     Thesis: *Who's in the White? Health, European Immigration and White Racialization in the 19<sup>th</sup> and 20<sup>th</sup> Century.* Advisor: Margaret Judd, Ph.D.
@@ -12,7 +12,7 @@ permalink: /cv/
 - 2011-2014 **B.A. Anthropology, with Honors**, University of Kansas, Lawrence, KS  
     Thesis: *A paleodietary reconstruction of Late Woodland and Early Central Plains Tradition utilizing dental calculus* Advisor: Jack L. Hofman, Ph.D.
 
-# Research
+## Research
 
 ### Publications
 
@@ -61,7 +61,7 @@ Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis 
 - 2014 Field School, Training in Archaeological Field Work  
     University of Kansas, Republic, KS
 
-# Teaching
+## Teaching
 
 ### Assistantships
 
@@ -98,7 +98,7 @@ Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis 
 - 2018 Anthropology After Dark - East Carolina University
 - 2017 Anthropology After Dark - East Carolina University
 
-# Service to Profession
+## Service to Profession
 
 ### External
 
