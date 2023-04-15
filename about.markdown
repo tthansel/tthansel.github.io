@@ -24,17 +24,17 @@ Perry, M.A., Provan, M., Tykot, R. H., Appleton, L., **Lieurance, A.J.** (2020).
 
 ### Conference Publications
 
-*Lieurance, A. J.*, Bailey, C., Wissler, A. (2023). Complicating Categories: How Historical Documents Can Impace Osteological Interpretations. 92<sup>nd</sup> Annual Meeting of the American Association of Biological Anthropologists, Reno, NV
+**Lieurance, A. J.**, Bailey, C., Wissler, A. (2023). Complicating Categories: How Historical Documents Can Impace Osteological Interpretations. 92<sup>nd</sup> Annual Meeting of the American Association of Biological Anthropologists, Reno, NV
 
-*Lieurance, A. J.*, Isable, K. (2023). Knee’d to Know: What Exactly is a Charcot Joint? A Case Study from the Hamann-Todd Collection. Paleopathology Association 50<sup>th</sup> Annual North American Meeting, Reno, NV
+**Lieurance, A. J.**, Isable, K. (2023). Knee’d to Know: What Exactly is a Charcot Joint? A Case Study from the Hamann-Todd Collection. Paleopathology Association 50<sup>th</sup> Annual North American Meeting, Reno, NV
 
-Grosso, A. R., Toth, S. A., *Lieurance, A.J.* (2022). Learning through Movement: Tactile Methods for Interpreting Muscle Movement in Osteology. 91<sup>st</sup> Annual Meeting of the American Association of Biological Anthropologists, Denver, CO
+Grosso, A. R., Toth, S. A., **Lieurance, A.J.** (2022). Learning through Movement: Tactile Methods for Interpreting Muscle Movement in Osteology. 91<sup>st</sup> Annual Meeting of the American Association of Biological Anthropologists, Denver, CO
 
-Lieurance, A.J., Perry, M. A. (2018). Exploring Social Inequality at Petra through Dental Pathology. 87<sup>th</sup> Annual Meeting of the American Association of Physical Anthropologists, Austin, TX
+**Lieurance, A.J.**, Perry, M. A. (2018). Exploring Social Inequality at Petra through Dental Pathology. 87<sup>th</sup> Annual Meeting of the American Association of Physical Anthropologists, Austin, TX
 
-Perry, M. A. Lieurance, A. J. Provan, M. E. (2017). Differential Diagnosis of Possible Treponemal and Mycobacterial Infections in a late 19<sup>th</sup> Century Semi-Nomadic Sample in Jordan. Paleopathology Association 44<sup>th</sup> Annual North American Meeting, New Orleans, LA
+Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis of Possible Treponemal and Mycobacterial Infections in a late 19<sup>th</sup> Century Semi-Nomadic Sample in Jordan. Paleopathology Association 44<sup>th</sup> Annual North American Meeting, New Orleans, LA
 
-Lieurance, A. J. Provan, M. E. (2017). Preliminary Results of the Paleopathological Investigation of a Late 19<sup>th</sup> Century Burial at Hesban, Jordan. Skeletal Biology in the Carolinas, Greensboro, NC.
+**Lieurance, A. J.**, Provan, M. E. (2017). Preliminary Results of the Paleopathological Investigation of a Late 19<sup>th</sup> Century Burial at Hesban, Jordan. Skeletal Biology in the Carolinas, Greensboro, NC.
 
 ### Grants and Funding
 
