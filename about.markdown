@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 permalink: /cv/
 ---
-### Education
+# Education
 
 - 2018-Present **Ph.D. Anthropology**, University of Pittsburgh, Pittsburgh, PA  
     Thesis: *Who's in the White? Health, European Immigration and White Racialization in the 19<sup>th</sup> and 20<sup>th</sup> Century.* Advisor: Margaret Judd, Ph.D.
@@ -12,9 +12,9 @@ permalink: /cv/
 - 2011-2014 **B.A. Anthropology, with Honors**, University of Kansas, Lawrence, KS  
     Thesis: *A paleodietary reconstruction of Late Woodland and Early Central Plains Tradition utilizing dental calculus* Advisor: Jack L. Hofman, Ph.D.
 
-### Research
+# Research
 
-## Publications
+### Publications
 
 London, J.E., Lewis, A.E., Turner, T.R., Howells, M.E., **Lieurance, A.J.**, Pender, J.E. (2022). Heavy Metal Ecotoxicology of Vervet Monkeys (*Chlorocebus pygerythrus*) across Field Sites in South Africa. *Primates, 63* (5), 525-533.  
 
@@ -22,7 +22,7 @@ Perry, M.A., **Lieurance, A.J.** (2020). The Nabataean Urban Experiment, Dental 
 
 Perry, M.A., Provan, M., Tykot, R. H., Appleton, L., **Lieurance, A.J.** (2020). Using Dental Enamel to Uncover the Impact of Childhood Diet on Frailty and Mortality in Petra, Jordan. *Journal of Archaeological Science: Reports, 29* [https://doi.org/10.1016/j.jasrep.2019.102181](https://doi.org/10.1016/j.jasrep.2019.102181)
 
-## Conference Publications
+### Conference Publications
 
 *Lieurance, A. J.*, Bailey, C., Wissler, A. (2023). Complicating Categories: How Historical Documents Can Impace Osteological Interpretations. 92<sup>nd</sup> Annual Meeting of the American Association of Biological Anthropologists, Reno, NV
 
@@ -36,7 +36,7 @@ Perry, M. A. Lieurance, A. J. Provan, M. E. (2017). Differential Diagnosis of Po
 
 Lieurance, A. J. Provan, M. E. (2017). Preliminary Results of the Paleopathological Investigation of a Late 19<sup>th</sup> Century Burial at Hesban, Jordan. Skeletal Biology in the Carolinas, Greensboro, NC.
 
-## Grants and Funding
+### Grants and Funding
 
 - 2022 Summer Research Funding ($3000), University of Pittsburgh, Department of Anthropology
 - 2021 Summer Research Funding ($2000), University of Pittsburgh, Department of Anthropology
@@ -44,7 +44,7 @@ Lieurance, A. J. Provan, M. E. (2017). Preliminary Results of the Paleopathologi
 - 2019 Conference Funding ($150), University of Pittsburgh, Department of Anthropology
 - 2019 Summer Research Funding ($1800), University of Pittsburgh, Department of Anthropology
 
-## Academic Awards and Fellowships
+### Academic Awards and Fellowships
 
 - 2020-21 Dietrich School Andrew W. Mellon Pre-doctoral Fellowship, University of Pittsburgh
 - 2018-19 Dietrich School of Arts and Sciences Fellowship, University of Pittsburgh
@@ -52,7 +52,7 @@ Lieurance, A. J. Provan, M. E. (2017). Preliminary Results of the Paleopathologi
     Research and Creative Achievement Week
 - 2016-18 Graduate Assistantship, East Carolina University
 
-## Field Experience
+### Field Experience
 
 - 2015 Study Abroad Program, Bioarchaeology Field School  
     Arizona State University, Kampsville, IL Director: Jane Buikstra
@@ -61,11 +61,11 @@ Lieurance, A. J. Provan, M. E. (2017). Preliminary Results of the Paleopathologi
 - 2014 Field School, Training in Archaeological Field Work  
     University of Kansas, Republic, KS
 
-### Teaching
+# Teaching
 
-## Assistantships
+### Assistantships
 
-# University of Pittsburgh
+#### University of Pittsburgh
 
 - 2023 Human Skeletal Analysis, Dr. Margaret Judd
 - 2022 Introduction to Forensic Anthropology, Dr. Margaret Judd
@@ -74,11 +74,11 @@ Lieurance, A. J. Provan, M. E. (2017). Preliminary Results of the Paleopathologi
 - 2020 Human Skeletal Analysis, Dr. Margaret Judd
 - 2019 Introduction to Biological Anthropology, Dr. Michael Siegel
 
-# East Carolina University
+#### East Carolina University
 
 - 2017-18 Introduction to Biological Anthropology Lab, Dr. James Loudon
 
-## Invited Lectures
+### Invited Lectures
 
 - 2022 Utility of Isotope Measurements in Humanitarian Work - University of Pittsburgh
 - 2022 Exploring Inequality through Teeth - Fairmont State
@@ -90,7 +90,7 @@ Lieurance, A. J. Provan, M. E. (2017). Preliminary Results of the Paleopathologi
 - 2019 Introduction to Non-metric Biodistance Traits - University of Pittsburgh
 - 2018 Introduction to Anthropology Guest Lecture - East Carolina University
 
-## Public Outreach
+### Public Outreach
 
 - 2022 Hostile Terrain '94 (Organizer) - University of Pittsburgh
 - 2020 Case for Community-Based Public Safety (Organizer) - University of Pittsburgh
@@ -98,15 +98,15 @@ Lieurance, A. J. Provan, M. E. (2017). Preliminary Results of the Paleopathologi
 - 2018 Anthropology After Dark - East Carolina University
 - 2017 Anthropology After Dark - East Carolina University
 
-### Service to Profession
+# Service to Profession
 
-## External
+### External
 
 - 2022-23 American Association of Biological Anthropologists Ethics Committee
 - 2022-23 Paleopathology Association Student Secretary
 - 2018-19 Carnegie Museum of Natural History Dept. of Anthropology Volunteer
 
-## Internal
+### Internal
 
 - 2022-23 Student Representative, University of Pittsburgh Dietrich School of Arts and Sciences GSO
 - 2019-20 Web Committee, University of Pittsburgh Anthropology Department
