@@ -4,6 +4,9 @@ title:  "Knee'd to Know: What Exactly is a Charcot Joint? A Case Study from the 
 date:   2023-04-14 21:18:15 -0400
 categories: PPA
 permalink: /kneed-to-know/
+author: 
+    - "Alysha Lieurance"
+    - "Kendra Isable"
 ---
 
 ### Introduction
