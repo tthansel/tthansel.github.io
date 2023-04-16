@@ -5,8 +5,8 @@ date:   2023-04-14 21:18:15 -0400
 categories: PPA
 permalink: /kneed-to-know/
 author: 
-    - name: "Alysha Lieurance, "
-    - name: "Kendra Isable"
+    - "Alysha Lieurance, "
+    - "Kendra Isable"
 ---
 
 ### Introduction
