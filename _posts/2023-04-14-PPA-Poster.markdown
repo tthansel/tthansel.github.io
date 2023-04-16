@@ -6,7 +6,7 @@ categories: PPA
 permalink: /kneed-to-know/
 author: 
     - person:
-        name: "Alysha Lieurance"
+        name: "Alysha Lieurance, "
     - person:
         name: "Kendra Isable"
 ---

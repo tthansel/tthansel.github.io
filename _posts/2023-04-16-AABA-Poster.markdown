@@ -5,8 +5,8 @@ date:   2023-04-16 19:17:50-04:00
 categories: AABA
 permalink: /complicating-categories/
 author: 
-    - "Alysha Lieurance"
-    - "Christine Bailey"
+    - "Alysha Lieurance, "
+    - "Christine Bailey, "
     - "Amanda Wissler"
 ---
 
