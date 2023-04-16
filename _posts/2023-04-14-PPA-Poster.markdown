@@ -10,7 +10,7 @@ permalink: /kneed-to-know/
 
 Neuropathic osteoarthropathies are skeletal changes that occur in weight bearing joints secondary to loss of sensation. J.-M. Charcot in 1868<sup>1</sup>, whose work described the progress of joint degeneration and connected them with spinal cord lesions. The eponymous “Charcot joint” is associated with a number of neurological conditions that may disrupt sensory input such as neurosyphilis, diabetes mellitus, leprosy, syringomyelia, and chronic alcoholism<sup>1</sup>. However, there is little information in the paleopathological literature describing Charcot knee in dry-bone and for establishing possible differential diagnoses in paleopathological investigations. Here, we present a case study of HTH 1944, an adult male (76-79 years) with an identified Charcot knee joint from the Hamann-Todd Osteological Collection.
 
-![Knee'd to Know: What Exactly is a Charcot Joint? A Case Study from the Hamann-Todd Collection (full poster)](/assets/kneed-to-know.pdf)
+[Download Poster: Knee'd to Know: What Exactly is a Charcot Joint? A Case Study from the Hamann-Todd Collection](/assets/kneed-to-know.pdf)
 
 ### References
 
