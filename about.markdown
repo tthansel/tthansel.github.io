@@ -14,6 +14,10 @@ permalink: /cv/
 
 ## Research
 
+### Interests
+
+Historical Bioarchaeology, Paleopathology, Dental Pathology, Dietary Isotopes
+
 ### Publications
 
 London, J.E., Lewis, A.E., Turner, T.R., Howells, M.E., **Lieurance, A.J.**, Pender, J.E. (2022). Heavy Metal Ecotoxicology of Vervet Monkeys (*Chlorocebus pygerythrus*) across Field Sites in South Africa. *Primates, 63* (5), 525-533.  
@@ -60,6 +64,12 @@ Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis 
     University of Kansas, Republic, KS
 - 2014 Field School, Training in Archaeological Field Work  
     University of Kansas, Republic, KS
+
+### Lab Experience
+
+- 2016-17 Graduate Research Assistant  
+    East Carolina University, Megan Perry  
+    Develop biological profiles and catalog the skeletal remains in the 2016 Petra North Ridge excavations.
 
 ## Teaching
 
@@ -111,3 +121,16 @@ Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis 
 - 2022-23 Student Representative, University of Pittsburgh Dietrich School of Arts and Sciences GSO
 - 2019-20 Web Committee, University of Pittsburgh Anthropology Department
 - 2018-19 Colloquium Committee, University of Pittsburgh Anthropology Department
+
+### Forensic Cases
+
+- 2017 Body Recovery Search, Washington County, NC
+- 2017 Body Recovery and Analysis, Roanoke Rapids, NC
+
+### Memberships
+
+- 2022-Present Society for Historical Archaeology
+- 2016-Present Paleopathology Association
+- 2015-Present American Association of Biological Anthropologists
+- 2015-22 American Anthropological Association
+- 2013-14 University of Kansas Undergraduate Anthropology Association
