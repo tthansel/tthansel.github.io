@@ -75,8 +75,6 @@ Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis 
 
 ## Teaching
 
-### Assistantships
-
 #### University of Pittsburgh
 
 - 2023 Introduction to Archaeology, Alysha Lieurance (Dr. Elizabeth Arkush, Faculty Mentor)
