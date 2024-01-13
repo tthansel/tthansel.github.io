@@ -42,6 +42,8 @@ Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis 
 
 ### Grants and Funding
 
+- 2023 Dissertation Fieldwork Grant ($6500), Wenner-Gren Foundation
+- 2023 Summer Research Funding ($3000), University of Pittsburgh, Department of Anthropology
 - 2022 Summer Research Funding ($3000), University of Pittsburgh, Department of Anthropology
 - 2021 Summer Research Funding ($2000), University of Pittsburgh, Department of Anthropology
 - 2020 Klinzing Pre-dissertation Grant ($3000), University of Pittsburgh, European Studies Center
@@ -77,6 +79,7 @@ Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis 
 
 #### University of Pittsburgh
 
+- 2023 Introduction to Archaeology, Alysha Lieurance (Dr. Elizabeth Arkush, Faculty Mentor)
 - 2023 Human Skeletal Analysis, Dr. Margaret Judd
 - 2022 Introduction to Forensic Anthropology, Dr. Margaret Judd
 - 2022 Introduction to Biological Anthropology, Dr. Margaret Judd
@@ -112,8 +115,8 @@ Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis 
 
 ### External
 
-- 2022-23 American Association of Biological Anthropologists Ethics Committee
-- 2022-23 Paleopathology Association Student Secretary
+- 2022-24 American Association of Biological Anthropologists Ethics Committee
+- 2022-24 Paleopathology Association Student Secretary
 - 2018-19 Carnegie Museum of Natural History Dept. of Anthropology Volunteer
 
 ### Internal
