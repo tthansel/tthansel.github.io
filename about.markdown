@@ -28,7 +28,7 @@ Perry, M.A., Provan, M., Tykot, R. H., Appleton, L., **Lieurance, A.J.** (2020).
 
 ### Conference Publications
 
-**Lieurance, A. J.**, Bailey, C., Wissler, A. (2023). Complicating Categories: How Historical Documents Can Impace Osteological Interpretations. 92<sup>nd</sup> Annual Meeting of the American Association of Biological Anthropologists, Reno, NV
+**Lieurance, A. J.**, Bailey, C., Wissler, A. (2023). Complicating Categories: How Historical Documents Can Impact Osteological Interpretations. 92<sup>nd</sup> Annual Meeting of the American Association of Biological Anthropologists, Reno, NV
 
 **Lieurance, A. J.**, Isable, K. (2023). Knee’d to Know: What Exactly is a Charcot Joint? A Case Study from the Hamann-Todd Collection. Paleopathology Association 50<sup>th</sup> Annual North American Meeting, Reno, NV
 
