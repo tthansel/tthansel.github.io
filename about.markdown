@@ -52,6 +52,7 @@ Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis 
 
 ### Academic Awards and Fellowships
 
+- 2023 Nominated Elizabeth Baranger Teaching Award, University of Pittsburgh GSO
 - 2020-21 Dietrich School Andrew W. Mellon Pre-doctoral Fellowship, University of Pittsburgh
 - 2018-19 Dietrich School of Arts and Sciences Fellowship, University of Pittsburgh
 - 2018 Masters Student Top Poster Award for Social Sciences, East Carolina University  
