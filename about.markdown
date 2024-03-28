@@ -7,6 +7,7 @@ permalink: /cv/
 
 - 2018-Present **Ph.D. Anthropology**, University of Pittsburgh, Pittsburgh, PA  
     Thesis: *Who's in the White? Health, European Immigration and White Racialization in the 19<sup>th</sup> and 20<sup>th</sup> Century.* Advisor: Margaret Judd, Ph.D.
+        Digital Studies and Methods Certificate
 - 2016-2018 **M.A. Anthropology**, East Carolina University, Greenville, NC  
     Thesis: *Exploring social inequality at Petra, Jordan during the 1<sup>st</sup> centruy B.C./A.D. through dental pathology.* Advisor: Megan Perry, Ph.D.
 - 2011-2014 **B.A. Anthropology, with Honors**, University of Kansas, Lawrence, KS  
@@ -16,7 +17,7 @@ permalink: /cv/
 
 ### Interests
 
-Historical Bioarchaeology, Paleopathology, Dental Pathology, Dietary Isotopes
+Historical Bioarchaeology, Human Skeletal Ethics, Paleopathology, Dental Pathology, Dietary Isotopes
 
 ### Publications
 
@@ -27,6 +28,8 @@ Perry, M.A., **Lieurance, A.J.** (2020). The Nabataean Urban Experiment, Dental 
 Perry, M.A., Provan, M., Tykot, R. H., Appleton, L., **Lieurance, A.J.** (2020). Using Dental Enamel to Uncover the Impact of Childhood Diet on Frailty and Mortality in Petra, Jordan. *Journal of Archaeological Science: Reports, 29* [https://doi.org/10.1016/j.jasrep.2019.102181](https://doi.org/10.1016/j.jasrep.2019.102181)
 
 ### Conference Publications
+
+Mendenhall, P., **Lieurance, A.J.** (2024). Shelf Life: Addressing the "Curation Crisis" through the Use and Reevaluation of Archival Collection Material. 89<sup>th</sup> Annual Meeting of the Society for American Archaeology, New Orleans, LA
 
 **Lieurance, A. J.**, Bailey, C., Wissler, A. (2023). Complicating Categories: How Historical Documents Can Impact Osteological Interpretations. 92<sup>nd</sup> Annual Meeting of the American Association of Biological Anthropologists, Reno, NV
 
@@ -46,21 +49,28 @@ Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis 
 - 2023 Summer Research Funding ($3000), University of Pittsburgh, Department of Anthropology
 - 2022 Summer Research Funding ($3000), University of Pittsburgh, Department of Anthropology
 - 2021 Summer Research Funding ($2000), University of Pittsburgh, Department of Anthropology
+- 2020-21 Dietrich School Andrew W. Mellon Pre-doctoral Fellowship, University of Pittsburgh
 - 2020 Klinzing Pre-dissertation Grant ($3000), University of Pittsburgh, European Studies Center
 - 2019 Conference Funding ($150), University of Pittsburgh, Department of Anthropology
 - 2019 Summer Research Funding ($1800), University of Pittsburgh, Department of Anthropology
+- 2018-19 Dietrich School of Arts and Sciences Fellowship, University of Pittsburgh
 
-### Academic Awards and Fellowships
+### Academic Awards
 
 - 2023 Nominated Elizabeth Baranger Teaching Award, University of Pittsburgh GSO
-- 2020-21 Dietrich School Andrew W. Mellon Pre-doctoral Fellowship, University of Pittsburgh
-- 2018-19 Dietrich School of Arts and Sciences Fellowship, University of Pittsburgh
 - 2018 Masters Student Top Poster Award for Social Sciences, East Carolina University  
     Research and Creative Achievement Week
 - 2016-18 Graduate Assistantship, East Carolina University
 
+### Lab Experience
+
+- 2016-17 Graduate Research Assistant  
+    East Carolina University, Megan Perry  
+    Develop biological profiles and catalog the skeletal remains in the 2016 Petra North Ridge excavations.
+
 ### Field Experience
 
+- 2022 Oddessy Field School, Skeletal Pathology and Traumatology: An Advanced Course
 - 2015 Study Abroad Program, Bioarchaeology Field School  
     Arizona State University, Kampsville, IL Director: Jane Buikstra
 - 2014 Laboratory Volunteer, Artifact Processing and Soil Floatation  
@@ -68,11 +78,6 @@ Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis 
 - 2014 Field School, Training in Archaeological Field Work  
     University of Kansas, Republic, KS
 
-### Lab Experience
-
-- 2016-17 Graduate Research Assistant  
-    East Carolina University, Megan Perry  
-    Develop biological profiles and catalog the skeletal remains in the 2016 Petra North Ridge excavations.
 
 ## Teaching
 
@@ -114,12 +119,14 @@ Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis 
 
 ### External
 
+- 2023-24 Cleveland Museum of Natural History Anthropology Volunteer
 - 2022-24 American Association of Biological Anthropologists Ethics Committee
 - 2022-24 Paleopathology Association Student Secretary
-- 2018-19 Carnegie Museum of Natural History Dept. of Anthropology Volunteer
+- 2018-24 Carnegie Museum of Natural History Dept. of Anthropology Volunteer
 
 ### Internal
 
+- 2022-23 GSO Elizabeth Baranger Teaching Award Committee Member
 - 2022-23 Student Representative, University of Pittsburgh Dietrich School of Arts and Sciences GSO
 - 2019-20 Web Committee, University of Pittsburgh Anthropology Department
 - 2018-19 Colloquium Committee, University of Pittsburgh Anthropology Department
@@ -131,6 +138,7 @@ Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis 
 
 ### Memberships
 
+- 2023-Present Society for American Archaeology
 - 2022-Present Society for Historical Archaeology
 - 2016-Present Paleopathology Association
 - 2015-Present American Association of Biological Anthropologists
