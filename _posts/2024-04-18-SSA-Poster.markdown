@@ -5,8 +5,8 @@ date:   2024-04-18 00:00:00-04:00
 categories: SAA
 permalink: /shelf-life/
 author: 
-    - "Phillip Mendenhall, (pam169@pitt.edu)"
-    - "Alysha Lieurance (ajl172@pitt.edu)"
+    - "Phillip Mendenhall [pmendenhall@pitt.edu](mailto:pmendenhall@pitt.edu),"
+    - "Alysha Lieurance [ajl127@pitt.edu](mailto:ajl127@pitt.edu)"
 ---
 
 ### Introduction
