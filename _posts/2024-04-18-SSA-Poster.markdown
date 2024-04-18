@@ -13,6 +13,8 @@ author:
 
 Compared to new archaeological data acquisition by traditional excavation and analysis, research and related funding associated with archival collections remains stagnant and is not proportional to the quantity of data present. This presentation highlights three cases of current research projects associated with the extant collections housed at the Cleveland Museum of Natural History, the Carnegie Museum of Natural History at Pittsburgh, and the Grave Creek Archaeological Complex, Moundsville, West Virginia. The first study leverages public archival records to fill in nationality data missing from the available demographic information for the Hamann-Todd Osteological collection, an essential step for reanalyzing the collection outside traditional racial categories. The second and third case studies showcase novel ceramic analysis techniques that are useful for large extant collections with poor documentation to demonstrate their viability as a reliable data source. The reanalysis in these cases shows that it is not only possible to add new results to existing excavation material, but previous outcomes can be revaluated using new methods and theory. In all cases, the need for reevaluation of archival material is demonstrated through the discovery of misidentified material and underreported or missing data in published works. 
 
+[Download Poster: Shelf Life: Addressing the "Curation Crisis" through the use and re-evaluation of archival collection material](/assets/shelf-life.pdf)
+
 ### References
 
 - Allen, R., & Ford, B. (Eds.). (2019). *New Life for Archaeological Collections*. U of Nebraska Press.
