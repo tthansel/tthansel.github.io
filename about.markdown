@@ -21,6 +21,14 @@ Historical Bioarchaeology, Human Skeletal Ethics, Paleopathology, Dental Patholo
 
 ### Publications
 
+#### Upcoming
+
+Wissler, A. **Lieurance, A.J.**, Reynolds, A., Nichols, L., Bailey, L., Umar, M., Widrick, K., Zuckerman, M.K. (Upcoming). Exploring health inequality within past communities of historical Cleveland, OH through human skeletal and archival data. In Hosek, L., Warner-Smith, A. and Novak, S.A. (Eds.) *Tissues and traces: Doing bioarachaeology with/in archives*. Berghahn Books.
+
+Bailey, C., **Lieurance, A.J.**. (In Review). Historic and legacy human skeletal collections. In Pilloud, M.A. and Passalacqua, N. (Eds.) *Handbook of Forensic Anthropology* Routledge.
+
+#### Published
+
 London, J.E., Lewis, A.E., Turner, T.R., Howells, M.E., **Lieurance, A.J.**, Pender, J.E. (2022). Heavy Metal Ecotoxicology of Vervet Monkeys (*Chlorocebus pygerythrus*) across Field Sites in South Africa. *Primates, 63* (5), 525-533.  
 
 Perry, M.A., **Lieurance, A.J.** (2020). The Nabataean Urban Experiment, Dental Disease and Childhood Stress. In Betsinger, T. and DeWitte, S. (Eds.), *The Bioarchaeology of Urbanization: The Biological, Demographic, and Social Consequences of Living in Cities.* (pp. 435-457) New York, NY: Springer
@@ -45,6 +53,7 @@ Perry, M. A. **Lieurance, A. J.**, Provan, M. E. (2017). Differential Diagnosis 
 
 ### Grants and Funding
 
+- 2024 Dean's Graduate Fellowship, Race and/or Latinx Initiatives ($5695), Dietrich School
 - 2023 Dissertation Fieldwork Grant ($6500), Wenner-Gren Foundation
 - 2023 Summer Research Funding ($3000), University of Pittsburgh, Department of Anthropology
 - 2022 Summer Research Funding ($3000), University of Pittsburgh, Department of Anthropology
